@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color:#0071FF
+}
+/*body style*/
+#aha {float: left;}
+/*float style*/
+th{
+	width: 350px;font-size: 40px	
+}
+/* th style*/
+a{
+	text-decoration:none;
+	color: #000000
+}
+/* link style*/
+td{
+	font-size: 17px
+}
+/*td style*/
